@@ -1,0 +1,25 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(/landing/images/andy-feliciotti-F8hRdfOSscU-unsplash.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0px;
+}
+
+.banner-container {
+  width: 800px;
+  margin: 0px auto;
+  justify-content: center;
+}
+
+.banner-container > p {
+  margin-bottom: 50px;
+}
+
+.banner-cards h2 {
+  width: 800px;
+  margin: 0px auto;
+  color: black;
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
